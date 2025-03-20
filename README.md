@@ -1,22 +1,20 @@
 <h1 align="center">Hi , I'm AliNexon</h1>
 <h3 align="center">A passionate frontend developer from Kabul Afghanistan</h3>
 
-- 🌱 I’m currently learning **Next.js , Node.js**
+- 🌱 I’m currently learning **Next.js & Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alinexon](https://github.com/alinexon)
 
-- 💬 Ask me about **frond-end skills**
+- 💬 Ask me about **front-end skills**
 
 - 📫 How to reach me **alinexon55@gmail.com**
 
-- ⚡ Fun fact **a am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alinexon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alinexon/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=61572986454352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61572986454352" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/alinexon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/alinexon/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@ali-nexon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ali-nexon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alinexon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alinexon" height="30" width="40" /></a>
+<a href="https://fb.com/alinexon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alinexon" height="30" width="40" /></a>
+<a href="https://instagram.com/alinexon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alinexon" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/alinexon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alinexon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
