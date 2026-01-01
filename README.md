@@ -15,7 +15,7 @@ I build scalable, modern web applications with a strong focus on performance and
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Frontend** | React.js, Next.js, TypeScript, Tailwind CSS, JavaScript, Chakra UI, Figma |
+| **Frontend** | React.js, Next.js, TypeScript, Tailwind CSS, JavaScript, Figma |
 | **Backend** | Node.js, Nest.js, Express.js, PHP |
 | **Databases** | PostgreSQL, MongoDB, MySQL |
 
